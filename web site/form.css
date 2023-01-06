@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}  
+body{
+    background-image: url(madencilik-faaliyetlerine-ced-surecinde-uygulanacak-usul-ve-esaslar-1630907006.jpg);
+    background-repeat: none;
+    background-size: 100%;
+}
+fieldset {
+    border: medium none !important;
+    margin: 0 0 10px;
+    min-width: 100%;
+    padding: 0;
+    width: 100%;
+    font-size: 24px;
+  }
+  .container{
+    position: absolute;
+ left: 42%;
+ top: 30%;
+ font-size:24px;
+ text-align: center;
+  }
+  .contact-submit{
+    font-size: 18px;
+  }
+  .container h3{
+    color: white;
+  }
+  .container h4{
+    color: white;
+  }
+  .container .kutu1{
+    margin left:auto;
+    padding:25px;
+    border:solid;
+    border-radius: 20px;
+    background-color:black;
+  }
